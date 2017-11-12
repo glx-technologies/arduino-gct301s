@@ -7,7 +7,7 @@
       "email": "mowsong@gmail.com",
       "platforms": [
         {
-          "name": "GCT301S-Dev Boards",
+          "name": "GCT301S Boards",
           "architecture": "gct301s",
           "version": "0.0.0",
           "category": "Contributed",
