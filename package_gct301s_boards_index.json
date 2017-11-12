@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "glx",
+      "name": "gct301s",
       "maintainer": "GLX Technologies",
       "websiteURL": "https://github.com/glx-technologies/arduino-gct301s",
       "email": "mowsong@gmail.com",
