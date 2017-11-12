@@ -1,0 +1,11 @@
+alpha.name=GCT301S Alpha
+alpha.build.board=GCT301S_ALPHA
+alpha.build.mcu=cortex-m0
+alpha.build.f_cpu=8000000
+alpha.build.core=gct301s
+alpha.build.variant=standard
+
+alpha.upload.tool=openocd
+alpha.upload.protocol=
+alpha.upload.maximum_size=131072
+
