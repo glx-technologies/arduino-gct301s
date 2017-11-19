@@ -20,12 +20,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "arduino",
+              "packager": "glx",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
             },
             {
-              "packager": "arduino",
+              "packager": "glx",
               "name": "CMSIS",
               "version": "4.5.0"
             }
