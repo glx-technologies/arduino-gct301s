@@ -11,10 +11,10 @@
           "architecture": "gct301s",
           "version": "0.0.2",
           "category": "Contributed",
-          "url": "https://github.com/glx-technologies/arduino-gct301s/archive/0.0.2.tar.gz",
-          "archiveFileName": "arduino-gct301s-0.0.2.tar.gz",
-          "checksum": "MD5:2b76429116a9f3f3e1a4c1f0fc8af0e0",
-          "size": "62606",
+          "url": "https://github.com/glx-technologies/arduino-gct301s/archive/0.0.3.tar.gz",
+          "archiveFileName": "arduino-gct301s-0.0.3.tar.gz",
+          "checksum": "SHA-256:91e4a4fca1d999d8ebbbfab7ced2265d57d4959f41e4ed8b1b428f1f6694b518",
+          "size": "62823",
           "boards": [
             {"name": "GCT301S Alpha"}
           ],
