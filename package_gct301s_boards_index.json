@@ -28,6 +28,11 @@
               "packager": "glx",
               "name": "CMSIS",
               "version": "4.5.0"
+            },
+            {
+              "packager": "glx",
+              "name": "openocd-gct301s",
+              "version": "0.10.0"
             }
           ]
         }
@@ -119,6 +124,19 @@
               "archiveFileName": "CMSIS-4.5.0.tar.bz2",
               "checksum": "SHA-256:cd8f7eae9fc7c8b4a1b5e40b89b9666d33953b47d3d2eb81844f5af729fa224d",
               "size": "31525196"
+            }
+          ]
+        },
+        {
+          "name": "openocd-gct301s",
+          "version": "0.10.0",
+          "systems": [
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/mowsong/openocd-gct301s/releases/download/0.10.0/openocd-gct301s-release_0.10.0.tar.gz",
+              "archiveFileName": "openocd-gct301s-release_0.10.0.tar.gz",
+              "checksum": "SHA-256:f89d5a259c4489aaa120dff6072ce5bf7c58106bf49972661b8d210314e1b3be",
+              "size": "3727522"
             }
           ]
         }
