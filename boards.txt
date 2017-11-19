@@ -6,6 +6,7 @@ alpha.build.core=gct301s
 alpha.build.variant=alpha
 alpha.build.variant_system_lib=
 alpha.build.ldscript=gct301s.ld
+alpha.build.openocdscript=openocd_alpha.cfg
 
 alpha.upload.tool=openocd
 alpha.upload.protocol=

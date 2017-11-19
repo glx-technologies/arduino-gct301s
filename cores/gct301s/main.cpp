@@ -32,13 +32,14 @@ extern "C" void __libc_init_array(void);
  */
 int main( void )
 {
+
   init();
 
   __libc_init_array();
 
   initVariant();
 
-  delay(1);
+  delay(0);
 #if defined(USBCON)
   USBDevice.init();
   USBDevice.attach();
