@@ -12,3 +12,12 @@ alpha.upload.tool=openocd
 alpha.upload.protocol=
 alpha.upload.maximum_size=131072
 
+alpha.upload.interface=cmsis-dap
+
+menu.Interface=Interface
+
+alpha.menu.Interface.jlink=J-Link
+alpha.menu.Interface.jlink.build.interface=jlink
+alpha.menu.Interface.cmsis=CMSIS-DAP
+alpha.menu.Interface.cmsis.build.interface=cmsis-dap
+
