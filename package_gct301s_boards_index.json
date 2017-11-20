@@ -135,8 +135,8 @@
               "host": "x86_64-pc-linux-gnu",
               "url": "https://github.com/mowsong/openocd-gct301s/releases/download/0.10.0/openocd-gct301s-release_0.10.0.tar.gz",
               "archiveFileName": "openocd-gct301s-release_0.10.0.tar.gz",
-              "checksum": "SHA-256:12ae163aec3b9041c998c293037615bc722abf3543a60097f9f674069e2fe575",
-              "size": "3727583"
+              "checksum": "SHA-256:8a34728fd4978915cb10398bebdbb5eb20618905408e1230ded82a131cab7812",
+              "size": "3727774"
             }
           ]
         }
