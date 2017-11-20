@@ -9,7 +9,7 @@ Just like any custom boards for the Arduino platform, to install this package, a
 1. The OpenOCD is a customed version with the GCT301S flash driver added. The current binary is only available on Linux.
 2. The OpenOCD depends on libusb, libhidapi and libudev. It was compiled on Centos 6.6.The sources are forked from the OpenOCD repository and hosted at:
 
-    `https://github.com/mowsong/openocd-gct301s`
+    https://github.com/mowsong/openocd-gct301s
 
 3. On Ubuntu, libudev.so.0 is not installed by default. The best way to add the shared library is to as described in:
 
