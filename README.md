@@ -11,9 +11,9 @@ Just like any custom boards for the Arduino platform, to install this package, a
 
   https://github.com/mowsong/openocd-gct301s
 
-3. On Ubuntu, libudev.so.0 is not installed by default. The best way to add the shared library is to as described in:
+~~3. On Ubuntu, libudev.so.0 is not installed by default. The best way to add the shared library is to as described in:~~
 
-  https://askubuntu.com/questions/288821/how-do-i-resolve-a-cannot-open-shared-object-file-libudev-so-0-error
+  ~~https://askubuntu.com/questions/288821/how-do-i-resolve-a-cannot-open-shared-object-file-libudev-so-0-error~~
 
 4. The libusb and libhidapi installations are quite common and information is readily available on the web.
 5. Currently, we can compile a sketch and then upload to the board using either J-Link or CMSIS-DAP. However, the Wiring codes are not ported yet. 
