@@ -129,8 +129,8 @@ recipe.size.regex=\.text\s+([0-9]+).*
 #
 
 tools.openocd.path={runtime.tools.openocd-gct301s.path}
-tools.openocd.cmd=bin/openocd-gct301s
-tools.openocd.cmd.windows=bin/openocd-gct301s-win.exe
+tools.openocd.cmd=bin/openocd
+tools.openocd.cmd.windows=bin/openocd.exe
 
 tools.openocd.upload.params.verbose=-d2
 tools.openocd.upload.params.quiet=-d0
