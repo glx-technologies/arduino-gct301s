@@ -16,8 +16,13 @@ alpha.upload.interface=cmsis-dap
 
 menu.Interface=Interface
 
-alpha.menu.Interface.jlink=J-Link
-alpha.menu.Interface.jlink.build.interface=jlink
 alpha.menu.Interface.cmsis=CMSIS-DAP
 alpha.menu.Interface.cmsis.build.interface=cmsis-dap
+alpha.menu.Interface.cmsis.build.transport=swd
+alpha.menu.Interface.jlink=J-Link
+alpha.menu.Interface.jlink.build.interface=jlink
+alpha.menu.Interface.jlink.build.transport=swd
+alpha.menu.Interface.stlink=ST-Link/v2
+alpha.menu.Interface.stlink.build.interface=stlink-v2
+alpha.menu.Interface.stlink.build.transport=hla_swd
 

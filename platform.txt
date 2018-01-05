@@ -134,7 +134,7 @@ tools.openocd.cmd.windows=bin/openocd.exe
 
 tools.openocd.upload.params.verbose=-d2
 tools.openocd.upload.params.quiet=-d0
-tools.openocd.upload.pattern="{path}/{cmd}" {upload.verbose} -s "{path}/share/openocd/scripts/" -f "interface/{build.interface}.cfg" -f target/gct301s.cfg -c "program {{{build.path}/{build.project_name}.elf}} verify reset exit"
+tools.openocd.upload.pattern="{path}/{cmd}" {upload.verbose} -s "{path}/share/openocd/scripts/" -f "interface/{build.interface}.cfg" -c "transport select {build.transport}" -f target/gct301s.cfg -c "program {{{build.path}/{build.project_name}.elf}} verify reset exit"
 
 # Program flashes the binary at 0x0000, so use the linker script without_bootloader
 tools.openocd.program.params.verbose=-d2
