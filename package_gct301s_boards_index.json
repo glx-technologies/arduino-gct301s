@@ -9,12 +9,12 @@
         {
           "name": "GCT301S Boards",
           "architecture": "gct301s",
-          "version": "0.0.5",
+          "version": "0.0.6",
           "category": "Contributed",
-          "url": "https://github.com/glx-technologies/arduino-gct301s/archive/0.0.5.tar.gz",
-          "archiveFileName": "arduino-gct301s-0.0.5.tar.gz",
-          "checksum": "SHA-256:aa4ffbc812642741df65f365b415240b2ccbdddafb4e654ca54a16b40892a12c",
-          "size": "62502",
+          "url": "https://github.com/glx-technologies/arduino-gct301s/archive/0.0.6.tar.gz",
+          "archiveFileName": "arduino-gct301s-0.0.6.tar.gz",
+          "checksum": "SHA-256:cccd418d448a411c953661cbfa0563b5c7b0474d9a33acb3ce324872c9111c94",
+          "size": "62560",
           "boards": [
             {"name": "GCT301S Alpha"}
           ],
@@ -135,22 +135,22 @@
               "host": "x86_64-pc-linux-gnu",
               "url": "https://github.com/mowsong/openocd-gct301s/releases/download/0.10.1/openocd-gct301s-0.10.1-linux64.tar.gz",
               "archiveFileName": "openocd-gct301s-0.10.1-linux64.tar.gz",
-              "checksum": "SHA-256:fa775579339990284cab7dccdd873d582304df8cd6268fc2461b0de89c870284",
-              "size": "1589181"
+              "checksum": "SHA-256:9bb053e5ae13df805ff23e695d42c96eee228acb67666e618ddd461da5d31172",
+              "size": "1591603"
             },
             {
               "host": "i686-pc-linux-gnu",
               "url": "https://github.com/mowsong/openocd-gct301s/releases/download/0.10.1/openocd-gct301s-0.10.1-linux32.tar.gz",
               "archiveFileName": "openocd-gct301s-0.10.1-linux32.tar.gz",
-              "checksum": "SHA-256:87b91c6c7da62a1ed6d765f4a5b5537ab4237cd3153091321c8ed02bddf2ca39",
-              "size": "1419009"
+              "checksum": "SHA-256:df312590f5f2cddc3684af0dd699236a1a5fc56ebefea738bd5bc48fcdfd23ea",
+              "size": "1421797"
             },
             {
               "host": "i686-mingw32",
               "url": "https://github.com/mowsong/openocd-gct301s/releases/download/0.10.1/openocd-gct301s-0.10.1-mingw32.tar.gz",
               "archiveFileName": "openocd-gct301s-0.10.1-mingw32.tar.gz",
-              "checksum": "SHA-256:a4cdfcb327eff76cb65f3d34d875eeac4a42de8e375e24b3239adba499ee32a9",
-              "size": "1370231"
+              "checksum": "SHA-256:f8b407b0ac013a606ef31e41bff59331b14294aa25707a49a68024e3d3ff8f15",
+              "size": "1373055"
             }
           ]
         }
