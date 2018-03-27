@@ -135,22 +135,22 @@
               "host": "x86_64-pc-linux-gnu",
               "url": "https://github.com/mowsong/openocd-gct301s/releases/download/0.10.1/openocd-gct301s-0.10.1-linux64.tar.gz",
               "archiveFileName": "openocd-gct301s-0.10.1-linux64.tar.gz",
-              "checksum": "SHA-256:9bb053e5ae13df805ff23e695d42c96eee228acb67666e618ddd461da5d31172",
-              "size": "1591603"
+              "checksum": "SHA-256:197ca4a21cd8b1bf67d884431b9524fe110bcc9ec50addf49421fbbab6e649dc",
+              "size": "1590408"
             },
             {
               "host": "i686-pc-linux-gnu",
               "url": "https://github.com/mowsong/openocd-gct301s/releases/download/0.10.1/openocd-gct301s-0.10.1-linux32.tar.gz",
               "archiveFileName": "openocd-gct301s-0.10.1-linux32.tar.gz",
-              "checksum": "SHA-256:df312590f5f2cddc3684af0dd699236a1a5fc56ebefea738bd5bc48fcdfd23ea",
-              "size": "1421797"
+              "checksum": "SHA-256:59735834ff23d5f03f85d850d66f8e753f99225ba50dd2b7a6bde79823b2a50f",
+              "size": "1420214"
             },
             {
               "host": "i686-mingw32",
               "url": "https://github.com/mowsong/openocd-gct301s/releases/download/0.10.1/openocd-gct301s-0.10.1-mingw32.tar.gz",
               "archiveFileName": "openocd-gct301s-0.10.1-mingw32.tar.gz",
-              "checksum": "SHA-256:f8b407b0ac013a606ef31e41bff59331b14294aa25707a49a68024e3d3ff8f15",
-              "size": "1373055"
+              "checksum": "SHA-256:d5c50c41a0ea2d14a0c6eb34bf15bac2b7d42f19e06dc6f23788147d94685969",
+              "size": "1371252"
             }
           ]
         }
